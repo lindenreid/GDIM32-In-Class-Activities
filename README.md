@@ -12,13 +12,4 @@ Our table decided that the single most important thing you can do in this class 
 7. Translate can only be called on an object. Transform is a class.
 8. Call Translate on the _playerTransform object, not the Transform class.
 ### Activity 3
-- Player
-	- Attributes:
-		- Bunny Sprite
-		- Number of seeds 
-	- Actions: 
-		- Movement
-- Plants
-- UI
-	- Seeds planted
-	- Seeds remaining
+[MG1 breakdown Google doc](https://docs.google.com/document/d/1l_v-lUJcDy0AyYdrUiEx2mTIQQP50WEgMH6YhFn23zE/edit?usp=sharing)
