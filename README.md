@@ -16,5 +16,6 @@ Our table decided that the single most important thing you can do in this class 
 ## W2
 ### Activity 1
 <img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/a5ce428e-e5d2-428b-b2f7-2657df9c43c8" />
+
 ### Activity 2
 [Here is the commit](https://github.com/lindenreid/GDIM32-In-Class-Activities/commit/18bc2e2bd44ab4b2e5910911e9505ad9c9ecd5f7) where I added the W2 activity Devlog answers. You should instead link a commit you pushed today from your MG2 repository.
