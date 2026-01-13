@@ -13,3 +13,6 @@ Our table decided that the single most important thing you can do in this class 
 8. Call Translate on the _playerTransform object, not the Transform class.
 ### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1l_v-lUJcDy0AyYdrUiEx2mTIQQP50WEgMH6YhFn23zE/edit?usp=sharing)
+## W2
+### Activity 1
+<img width="913" height="690" alt="Screenshot 2026-01-12 at 4 44 06 PM" src="https://github.com/user-attachments/assets/a5ce428e-e5d2-428b-b2f7-2657df9c43c8" />
